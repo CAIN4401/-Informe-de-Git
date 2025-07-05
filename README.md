@@ -1,2 +1,2 @@
-# -Informe-de-Git
+# InformedeGit
  Prueba para Informe de Git
